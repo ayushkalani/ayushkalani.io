@@ -10,7 +10,7 @@ Culture typically lives outside of the bounds of a written document. It’s hard
 
 We’ve tried to capture the opinionated values that are distinct from the corporate best practices that often find their way into companies’ cultural values, e.g. effective communication, high ownership and autonomy, collaborative teamwork, extreme speed, customer obsession, continuous learning, etc. Those are all absolutely essential to the work we do, but they don’t define how we are unusually different from other teams. 
 
-## **Worth vs value**
+## Worth vs value
 
 It’s easy to confuse our worth as people with the value of our work. When we produce good work or achieve a particular outcome, we feel better about ourselves. When we produce poor-quality work or fail in some way, we can feel like a failure as a person. It’s also easy to let this way of thinking inform our perceptions and judgments of other people.
 
