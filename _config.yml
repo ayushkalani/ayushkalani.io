@@ -23,7 +23,7 @@ email: kalani@web.com
 description: >- # this means to ignore newlines until "baseurl:"
   my latest muse
 
-domain: ayushkalani.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# domain: ayushkalani.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ayushkalani.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: chill_scenes
