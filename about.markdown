@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I’m Ayush Kalani colloquiallly know as Kalani 👨🏻‍💻 — software builder and full-time curious human 🚀. Born in Jaipur 🐪, currently adulting in San Francisco 🌁. I wrangle AI/ML stuff for a living 🤖 and collect vinyl records like it's still 1975 🎶. Big fan of deep conversations, spicy food 🌶️, rock and roll music 🎸, and quiet mornings ☕. This blog is my digital playground 🛝—expect tech rants, life musings, and maybe a few hot takes no one asked for 😎. Welcome to the chaos, stay for the vibes ✨
