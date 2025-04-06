@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Yours Truly](/assets/images/intro.jpg "Yours Truly")
+<img class="medium-img" style="float: left;" src="/assets/images/intro.png">
 
-I’m Ayush Kalani colloquiallly know as Kalani 👨🏻‍💻 — software builder and full-time curious human 🚀. Born in Jaipur, currently adulting in San Francisco. I wrangle AI/ML stuff for a living and collect vinyl records like it's still 1975. Big fan of deep conversations, spicy food, rock and roll music 🎸, and quiet mornings. This blog is my digital playground —expect tech rants, life musings, and maybe a few hot takes no one asked for 😎. Welcome to the chaos, stay for the vibes ✨
+# Who am I ?
+Ayush Kalani—colloquially known as _Kalani_ is a software builder and full-time curious human. Born and raised in Jaipur, he's now working in San Francisco, where he wrangles Machine Learning and Distriubuted systems for a living 🤖 and collects vinyl records like it’s still 1975 🎶. A fan of deep conversations, art, rock and roll music. Kalani lives for the little joys. This blog is his digital playground — a space for tech rants, life musings, and the occasional hot take no one asked for. Welcome to the chaos—stay for the vibes ✨
